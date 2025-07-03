@@ -57,16 +57,6 @@ This project performs **sentiment analysis and feature extraction** on customer 
 | Subjectivity Peaks  | At 0.0, 0.6, and 1.0 – objective to emotional|
 | Rating-Sentiment    | 5-star ratings strongly aligned with positivity |
 
-## 📷 Sample Visuals
-### ✅ Sentiment Distribution
-![Sentiment Distribution](images/sentiment_distribution.png)
-### ✅ Subjectivity Spread
-![Subjectivity Histogram](images/subjectivity_distribution.png)
-### ✅ Sentiment vs Rating Heatmap
-![Heatmap](images/sentiment_vs_rating.png)
-### ✅ Word Cloud from Positive Reviews
-![Word Cloud](images/wordcloud_positive.png)
-
 ## 🚀 How to Run
 1. Clone the repo:
 ```bash
